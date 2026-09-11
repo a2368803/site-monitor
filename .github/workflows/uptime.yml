@@ -109,9 +109,12 @@ jobs:
                 issue_number: open.data[0].number, body
               });
             } else {
+              // 指派給擁有者 — 被指派一定會收到通知信，
+              // 不必依賴有沒有 watch 這個 repo
               await github.rest.issues.create({
                 owner: context.repo.owner, repo: context.repo.repo,
-                title, body, labels: ['uptime']
+                title, body, labels: ['uptime'],
+                assignees: [context.repo.owner]
               });
             }
 
