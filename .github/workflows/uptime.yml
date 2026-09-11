@@ -24,6 +24,7 @@ jobs:
           https://bangbangcat-kaohsiung.vercel.app
           https://wadatable.vercel.app
           https://kaohsiung-cat-map.vercel.app
+          https://wada.co.za/__notification_test__
           "
 
           FAILED=""
