@@ -25,6 +25,9 @@ jobs:
           https://wadatable.vercel.app
           https://kaohsiung-cat-map.vercel.app
           https://wadashop-beta.vercel.app
+          https://shop.wada.co.za/wada
+          https://wadafood.a2368803.workers.dev
+          https://wadafood.a2368803.workers.dev/api/store-status
           "
 
           FAILED=""

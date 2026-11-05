@@ -11,6 +11,12 @@
 | 棒棒貓官網 | https://bangbangcat-kaohsiung.vercel.app |
 | 和田線上訂位 | https://wadatable.vercel.app |
 | 高雄貓咪地圖 | https://kaohsiung-cat-map.vercel.app |
+| 和田損益管理 | https://wadashop-beta.vercel.app |
+| 店家網站（shoppage，用和田這家檢查） | https://shop.wada.co.za/wada |
+| 和田線上點餐（畫面） | https://wadafood.a2368803.workers.dev |
+| 和田線上點餐（主機和資料庫） | https://wadafood.a2368803.workers.dev/api/store-status |
+
+點餐的畫面是靜態檔，主機額度用完或資料庫壞掉時還是打得開，所以要多查一支會經過主機和資料庫的 API。
 
 ## 運作方式
 
