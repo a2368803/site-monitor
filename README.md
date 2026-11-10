@@ -13,6 +13,8 @@
 | 高雄貓咪地圖 | https://kaohsiung-cat-map.vercel.app |
 | 和田損益管理 | https://wadashop-beta.vercel.app |
 | 店家網站（shoppage，用和田這家檢查） | https://shop.wada.co.za/wada |
+| 店家管理畫面（shoppage，2026-11-11 搬到專用網址） | https://store.wada.co.za/m/ |
+| shoppage 老闆後台 | https://admin.wada.co.za/admin/ |
 | 和田線上點餐（畫面） | https://wadafood.a2368803.workers.dev |
 | 和田線上點餐（主機和資料庫） | https://wadafood.a2368803.workers.dev/api/store-status |
 
